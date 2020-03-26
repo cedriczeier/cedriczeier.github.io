@@ -24,7 +24,7 @@
     {
       "id": "3lg4jv143rs7",
       "name": "localhost:8080",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2020-03-05T13:22:05.264+01:00",
       "updated_at": "2020-03-17T13:29:38.899+01:00",
       "position": 1,
