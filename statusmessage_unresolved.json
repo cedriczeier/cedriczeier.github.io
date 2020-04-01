@@ -150,6 +150,20 @@
       ],
       "components": [
         {
+          "id": "fzbkvvr3hqtn",
+          "name": "ticketshop.zvv.ch",
+          "status": "partial_outage",
+          "created_at": "2020-03-05T13:25:12.036+01:00",
+          "updated_at": "2020-03-12T11:31:09.463+01:00",
+          "position": 1,
+          "description": "Ticketshop",
+          "showcase": true,
+          "group_id": "6qx2bkzl6pk9",
+          "page_id": "9ps77b2kgwh3",
+          "group": false,
+          "only_show_if_degraded": false
+        },
+        {
           "id": "7pmvxnq3df5n",
           "name": "account.zvv.ch",
           "status": "partial_outage",
