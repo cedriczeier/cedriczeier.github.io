@@ -151,6 +151,20 @@
       "components": [
         {
           "id": "fzbkvvr3hqtn",
+          "name": "online.fahrplan.zvv.ch",
+          "status": "partial_outage",
+          "created_at": "2020-03-05T13:25:12.036+01:00",
+          "updated_at": "2020-03-15T14:20:40.463+01:00",
+          "position": 1,
+          "description": "Fahrplan",
+          "showcase": true,
+          "group_id": "6qx2bkzl6pk9",
+          "page_id": "9ps77b2kgwh3",
+          "group": false,
+          "only_show_if_degraded": false
+        },
+        {
+          "id": "fzbkvvr3hqtn",
           "name": "ticketshop.zvv.ch",
           "status": "partial_outage",
           "created_at": "2020-03-05T13:25:12.036+01:00",
@@ -180,7 +194,7 @@
         {
           "id": "271nk8rrqdhs",
           "name": "sso.zvv.ch",
-          "status": "partial_outage",
+          "status": "degraded_performance",
           "created_at": "2020-03-05T13:22:48.796+01:00",
           "updated_at": "2020-03-12T09:55:36.866+01:00",
           "position": 2,
@@ -212,7 +226,7 @@
           "created_at": "2020-03-05T13:23:38.435+01:00",
           "updated_at": "2020-03-12T09:55:36.832+01:00",
           "position": 1,
-          "description": "Webseite",
+          "description": "Swisspass",
           "showcase": true,
           "group_id": "1g30td1xhsz1",
           "page_id": "9ps77b2kgwh3",
