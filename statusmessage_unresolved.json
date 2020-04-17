@@ -121,6 +121,12 @@
               "new_status": "major_outage"
             },
             {
+              "code": "3lg4jv143rs7",
+              "name": "acc.zvv.ch",
+              "old_status": "partial_outage",
+              "new_status": "major_outage"
+            },
+            {
               "code": "271nk8rrqdhs",
               "name": "sso.zvv.ch",
               "old_status": "partial_outage",
