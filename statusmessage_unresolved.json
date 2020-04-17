@@ -128,19 +128,19 @@
           "affected_components": [
             {
               "code": "3lg4jv143rs7",
-              "name": "unic - zvv.ch",
+              "name": "zvv.ch",
               "old_status": "operational",
               "new_status": "partial_outage"
             },
             {
               "code": "271nk8rrqdhs",
-              "name": "unic - sso.zvv.ch",
+              "name": "sso.zvv.ch",
               "old_status": "operational",
               "new_status": "partial_outage"
             },
             {
               "code": "7pmvxnq3df5n",
-              "name": "unic - account.zvv.ch",
+              "name": "account.zvv.ch",
               "old_status": "operational",
               "new_status": "partial_outage"
             }
