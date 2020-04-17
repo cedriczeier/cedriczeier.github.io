@@ -34,6 +34,12 @@
               "name": "ticketshop.zvv.ch",
               "old_status": "operational",
               "new_status": "partial_outage"
+            },
+            {
+              "code": "3lg4jv143rs7",
+              "name": "zvv.ch",
+              "old_status": "partial_outage",
+              "new_status": "major_outage"
             }
           ],
           "deliver_notifications": false,
