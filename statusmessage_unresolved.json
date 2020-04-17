@@ -143,6 +143,12 @@
               "name": "account.zvv.ch",
               "old_status": "partial_outage",
               "new_status": "partial_outage"
+            },
+            {
+              "code": "7pmvxnq3df5n",
+              "name": "account-acc.zvv.ch",
+              "old_status": "partial_outage",
+              "new_status": "partial_outage"
             }
           ],
           "deliver_notifications": true,
